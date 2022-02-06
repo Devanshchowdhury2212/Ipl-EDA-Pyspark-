@@ -3,10 +3,10 @@ Exploratory data analysis on IPL dataset using Pyspark on Databricks Platform.
 
 Queries made for Data Analysis
 
-# A. 
+1.) 
 Find the top 3 venues which hosted the most number of eliminator matches?
 
-# B. 
+#### B. 
 Return most number of catches taken by a player in IPL history?
 
 # C. 
