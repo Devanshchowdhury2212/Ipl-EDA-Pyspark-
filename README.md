@@ -8,7 +8,7 @@ To Run the following Notebook/Kernel :-
 
 Queries made for Data Analysis
 
-#### A. ind the top 3 venues which hosted the most number of eliminator matches?
+#### A. Find the top 3 venues which hosted the most number of eliminator matches?
 
 #### B. Return most number of catches taken by a player in IPL history?
 
